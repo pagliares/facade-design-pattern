@@ -8,6 +8,12 @@ I use a simple Java program that evolves from a simple example without the use o
 
 To ease contrasting the evolution of the examples in this directory, I created a Multi Module Maven Project. In this way, all examples can be loaded and built together in the IDE of your choice (I use IntelliJ IDEA Ultimate Edition).
 
+To open the examples in your IDE, open/import the parent project (folder highlighted in blue in the Figure).
+
+<p align="center">
+    <img src="Images_UML_Diagrams/Maven_Multi_Module_Structure.png" alt="Multi model Maven project structure">
+</p>
+
 ### e-commerce-version1
 
 This example is the initial version of our simplified e-commerce program. Although it works, it demands using several classes in order to accomplish a product purchase. The example does not use the Facade design pattern.
