@@ -11,3 +11,7 @@ To ease contrasting the evolution of the examples in this directory, I created a
 ### 01 - e-commerce-version1
 
 This example is the initial version of our simplified e-commerce program. Although it works, it demands using several classes in order to accomplish a product purchase. The example does not use the Facade design pattern.
+
+### 02 - e-commerce-version2
+
+This example builds upon the first example by adding the Facade design pattern to our solution. This eases the process of making a purchase in our example e-commerce system. This version does not adhere to the principle of least knowledege (don't talk with strangers/Demetrius' Law).
