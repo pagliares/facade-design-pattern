@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="facade-design-pattern" />
+        <module name="e-commerce-version1" />
       </profile>
     </annotationProcessing>
   </component>
